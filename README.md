@@ -2,8 +2,7 @@ I have Made This using Python Turtle when i get bored during coding i Have creat
 The Following Output Looks like 👇👇👇👇
 
 ## Flower.py
-#![Flower](https://user-images.githubusercontent.com/87264935/172403024-0275c7a4-5a32-4867-94d3-d38c92a0cc59.png)
-<img src="https://user-images.githubusercontent.com/87264935/172403024-0275c7a4-5a32-4867-94d3-d38c92a0cc59.png" height="200" title="Flower">
+![Flower](https://user-images.githubusercontent.com/87264935/172403024-0275c7a4-5a32-4867-94d3-d38c92a0cc59.png)
 
 ## CircleRing.py
 ![Circle](https://user-images.githubusercontent.com/87264935/172403309-a9984f4f-8b8c-45b3-b80e-6e741c53e8b6.png)
