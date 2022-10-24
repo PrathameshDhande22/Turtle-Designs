@@ -22,4 +22,5 @@ The Following Output Looks like 👇👇👇👇
 ## windowslogo.py
 ![wn](https://user-images.githubusercontent.com/87264935/172403732-86782710-9b4a-414a-8baa-a369da70ff1c.png)
 
-
+## diwali.py
+![diwali](https://user-images.githubusercontent.com/87264935/197512745-98e9577a-c519-4c1b-abf4-3e4f2d0cc050.png)
